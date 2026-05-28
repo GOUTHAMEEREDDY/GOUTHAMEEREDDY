@@ -26,11 +26,7 @@ I'm an electronics engineering enthusiast passionate about **digital design**, *
 | [8-Bit ALU with Flags](https://github.com/GOUTHAMEEREDDY/ALU_PROJECT) | ALU with 20 operations including arithmetic, logical, shift, rotate, and comparison with flag generation |
 | [Verilog Projects Collection](https://github.com/GOUTHAMEEREDDY/verilog_projects) | Collection of fundamental digital modules: Half Adder, Full Adder, CLA, Comparator, MUX, Decoder, ALU |
 
-## 📊 GitHub Stats
 
-![Gouthamee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GOUTHAMEEREDDY&show_icons=true&theme=default&hide_border=true)
-
----
 
 ## 📫 Let's Connect
 
